@@ -26,4 +26,8 @@ class AuthenticationRepository {
 
     return _dio.post('login', data: params);
   }
+
+  Future<Response> fetchVideoslist() {
+    return _dio.get('videos');
+  }
 }

@@ -155,7 +155,7 @@ class LoginViewState extends State<LoginView> {
 }
 
 class _EmailInput extends StatelessWidget {
-  const _EmailInput({super.key, required this.focusNode});
+  const _EmailInput({required this.focusNode});
 
   final FocusNode focusNode;
 
@@ -188,7 +188,7 @@ class _EmailInput extends StatelessWidget {
 }
 
 class _PasswordInput extends StatelessWidget {
-  const _PasswordInput({super.key, required this.focusNode});
+  const _PasswordInput({required this.focusNode});
 
   final FocusNode focusNode;
 
