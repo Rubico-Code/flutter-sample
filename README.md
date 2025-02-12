@@ -9,7 +9,7 @@ This library's goal is to provide some sample code for references.
 ## Examples
 
 - Login Flow - an example of using the `bloc` and `flutter_bloc` packages to implement a Login Flow.
-- Video list with inApp Video Player - feature displays a list of videos fetched from an API using Dio and Bloc state management. Users can select a video to play, and it will be handled by VideoPlayerController, ensuring smooth playback with proper state management.
+- Video list with inApp Video Player - feature displays a list of videos fetched from an API using `Dio` and `Bloc state management`. Users can select a video to play, and it will be handled by `VideoPlayerController`, ensuring smooth `playback` with proper state management.
 
 ## Extensions
 
